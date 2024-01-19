@@ -1,2 +1,2 @@
-# super-duper-enigma
+# QR-Component
 This is a Frontend Mentor Project
